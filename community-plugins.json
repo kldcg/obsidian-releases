@@ -74324,5 +74324,12 @@
     "author": "Dan V",
     "description": "Convert Windows-reserved punctuation to fullwidth forms when pasting into file names. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "danv23610-cmd/filename-paste-fullwidth"
+  },
+  {
+    "id": "agent-memory",
+    "name": "Agent Memory",
+    "author": "kldcg",
+    "description": "Keep the memory file your AI agent reads in shape: generate the topic index, watch the injected-context budget, audit memory health.",
+    "repo": "kldcg/obsidian-agent-memory"
   }
 ]
